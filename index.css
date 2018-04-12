@@ -1,0 +1,19 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.my-image {
+  max-height: 25vh;
+  height:auto;
+  width: auto;
+-o-object-fit: cover;
+ object-fit: cover;
+ overflow: hidden;
+
+}
+
+.fa-instagram {
+  color: rgb(255, 100, 255); }
